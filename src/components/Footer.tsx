@@ -19,7 +19,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://github.com/AnupriyaSingh04" 
+                href="https://github.com/adityaarya2004" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -30,7 +30,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a 
-                href="http://www.linkedin.com/in/anupriya-singh-" 
+                href="http://www.linkedin.com/in/aditya--arya" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
@@ -79,16 +79,16 @@ const Footer = () => {
                   <rect width="20" height="16" x="2" y="4" rx="2"></rect>
                   <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
                 </svg>
-                <a href="mailto:anupriyasingh534@gmail.com" className="text-gray-400 hover:text-cosmic-blue transition-colors">
-                  anupriyasingh534@gmail.com
+                <a href="mailto:adityaaryaxyz@gmail.com" className="text-gray-400 hover:text-cosmic-blue transition-colors">
+                  adityaaryaxyz@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-cosmic-blue mt-1">
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
                 </svg>
-                <a href="tel:+918210538701" className="text-gray-400 hover:text-cosmic-blue transition-colors">
-                  +91-8210538701
+                <a href="tel:+917426084940" className="text-gray-400 hover:text-cosmic-blue transition-colors">
+                  +91-7426084940
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -105,7 +105,7 @@ const Footer = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-gray-800 text-center text-gray-500 text-sm">
-          <p>© {new Date().getFullYear()} Anupriya Singh's Portfolio. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Aditya Arya's Portfolio. All rights reserved.</p>
           <p className="mt-2">
             <span className="text-cosmic-blue">&#10100;</span> Designed and Built with ❤️ <span className="text-cosmic-blue">&#10101;</span>
           </p>

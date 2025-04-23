@@ -17,7 +17,7 @@ const AboutSection = () => {
     {
       icon: Globe,
       title: 'Project Leader',
-      description: 'Experience as NSS Executive leading social initiatives and events.'
+      description: 'Experience as technical analyst and organizing team collaborations.'
     },
     {
       icon: Sparkles,
@@ -109,7 +109,7 @@ const AboutSection = () => {
                 transition={{ duration: 0.5 }}
                 className="text-2xl md:text-3xl font-display font-bold text-cyan-300"
               >
-                Hello, I'm Anupriya Singh
+                Hello, I'm Aditya Arya
               </motion.h3>
               
               <motion.div 
@@ -119,23 +119,22 @@ const AboutSection = () => {
                 className="space-y-4"
               >
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  I'm a passionate Data Analyst and Computer Science student at Lovely Professional University, with expertise 
-                  in data visualization, programming, and web development.
+                Hi ! I'm Aditya Arya, a curious and driven individual passionate about technology, data, and making a meaningful impact through innovation. Currently pursuing my B.Tech at Lovely Professional University.
+
                 </p>
                 
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  My technical toolkit includes Python, Java, C++, R Programming, SQL, and web technologies. I'm proficient with 
-                  data analysis tools like Tableau, Power BI, and Advanced Excel.
+                I have a strong interest in data science, investment advisory, and AI-driven solutions. With hands-on experience in portfolio management and advisory services, I’ve managed portfolios worth ₹10 crore and completed various industry-relevant certifications and simulations.
                 </p>
                 
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  I've interned as a Data Analyst at Prodigy Infotech and completed a stimulated job at JP Morgan Chase, where I created 
-                  predictive models, analyzed datasets, and built visualizations to enhance decision-making processes.
+                Apart from academics and work, I enjoy working on projects that combine creativity with problem-solving—like developing crop disease detection systems, working with datasets in R, and building Java-based applications. I’m also an active team player, having coordinated events like Coke Studio and represented my department in public relations.
+
                 </p>
                 
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  As an NSS Executive, I've led social initiatives like blood donation and plantation drives, strengthening my 
-                  leadership and communication skills while making a positive impact.
+                Always eager to learn, grow, and contribute, I’m on a journey to bridge the gap between data and decision-making—one project at a time.
+
                 </p>
               </motion.div>
             </div>

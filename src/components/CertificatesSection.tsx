@@ -22,46 +22,46 @@ const CertificatesSection = () => {
 
   const certificates = [
     {
-      title: "Excel Skills Job Simulation",
+      title: "Summer Training",
+      issuer: "LinusSocials",
+      date: "August 2024",
+      link: "#",
+      image: "/certificates/c1.png" // Save the JP Morgan certificate image
+    },
+    {
+      title: "Investment Banking Job Simulation",
       issuer: "JP Morgan Chase & Co.",
       date: "August 2024",
       link: "#",
-      image: "/certificates/jpmorgan-certificate.png" // Save the JP Morgan certificate image
+      image: "/certificates/c2.png" // Save the Prodigy InfoTech certificate image
     },
     {
-      title: "Data Science Internship",
-      issuer: "Prodigy InfoTech",
-      date: "August 2024",
+      title: "Introduction to MongoDB for Students",
+      issuer: "MongoDB",
+      date: "September 2024",
       link: "#",
-      image: "/certificates/prodigy-certificate.png" // Save the Prodigy InfoTech certificate image
+      image: "/certificates/c3.png" // Save the LPU certificate image
     },
     {
-      title: "Nari-Her right her pride",
-      issuer: "LPU-NSS, Lovely Professional University",
-      date: "April 2024",
+      title: "Supervised Machine Learning: Regression and Classification ",
+      issuer: "Coursera",
+      date: "November 2024",
       link: "#",
-      image: "/certificates/lpu-nss-certificate1.png" // Save the LPU certificate image
+      image: "/certificates/c4.png" // Save the LPU VISTAAR certificate image
     },
     {
-      title: "6th VISTAAR Conference",
-      issuer: "LPU-NSS, Lovely Professional University",
-      date: "March 2023",
+      title: "Data Analysis with Tableau",
+      issuer: "Coursera",
+      date: "November 2024",
       link: "#",
-      image: "/certificates/lpu-vistaar-certificate.png" // Save the LPU VISTAAR certificate image
+      image: "/certificates/c5.png" // Save the UCI certificate image
     },
     {
-      title: "Fundamentals of Management",
-      issuer: "UCI Division of Continuing Education & Coursera",
-      date: "March 2023",
+      title: "Prompt Engineering for ChatGPT",
+      issuer: "Coursera",
+      date: "January 2024",
       link: "#",
-      image: "/certificates/uci-management-certificate.png" // Save the UCI certificate image
-    },
-    {
-      title: "Understanding Cloud Fundamentals",
-      issuer: "LinkedIn Learning",
-      date: "February 2023",
-      link: "#",
-      image: "/certificates/linkedin-cloud-certificate.png" // Save the LinkedIn Learning certificate image
+      image: "/certificates/c6.png" // Save the LinkedIn Learning certificate image
     }
   ];
 
@@ -175,9 +175,9 @@ const CertificatesSection = () => {
               <motion.div variants={item}>
                 <Card className="bg-space-light border-cosmic-blue/20 hover:border-cosmic-blue/50 transition-all duration-300 hover:shadow-md hover:shadow-cosmic-blue/20">
                   <CardContent className="p-6">
-                    <h4 className="font-medium text-lg mb-2">NSS Executive</h4>
-                    <p className="text-gray-400 mb-2">Since September 2023</p>
-                    <p className="text-gray-300">Spearheaded social initiatives like blood donation, plantation drives, and women's rights campaigns.</p>
+                    <h4 className="font-medium text-lg mb-2">SEBI Registered Research Analyst </h4>
+                    <p className="text-gray-400 mb-2">Since December 2024</p>
+                    <p className="text-gray-300">SEBI Certified Research Analyst authorized to provide independent and compliant investment research and recommendations.</p>
                   </CardContent>
                 </Card>
               </motion.div>
@@ -185,32 +185,16 @@ const CertificatesSection = () => {
               <motion.div variants={item}>
                 <Card className="bg-space-light border-cosmic-blue/20 hover:border-cosmic-blue/50 transition-all duration-300 hover:shadow-md hover:shadow-cosmic-blue/20">
                   <CardContent className="p-6">
-                    <h4 className="font-medium text-lg mb-2">HackOn with Amazon</h4>
+                    <h4 className="font-medium text-lg mb-2">Public Relation (Department of Student Organization) </h4>
                     <p className="text-gray-400 mb-2">May 2024</p>
-                    <p className="text-gray-300">Competed in a hackathon focused on data structures and algorithms.</p>
+                    <p className="text-gray-300">Streamlined member in the Department of Student Organization, managing event promotions and social media engagement across the campus.</p>
                   </CardContent>
                 </Card>
               </motion.div>
               
-              <motion.div variants={item}>
-                <Card className="bg-space-light border-cosmic-blue/20 hover:border-cosmic-blue/50 transition-all duration-300 hover:shadow-md hover:shadow-cosmic-blue/20">
-                  <CardContent className="p-6">
-                    <h4 className="font-medium text-lg mb-2">Google Girl Hackathon</h4>
-                    <p className="text-gray-400 mb-2">April 2024</p>
-                    <p className="text-gray-300">Tackled advanced coding challenges, showcasing algorithmic skills and collaborative development.</p>
-                  </CardContent>
-                </Card>
-              </motion.div>
               
-              <motion.div variants={item}>
-                <Card className="bg-space-light border-cosmic-blue/20 hover:border-cosmic-blue/50 transition-all duration-300 hover:shadow-md hover:shadow-cosmic-blue/20">
-                  <CardContent className="p-6">
-                    <h4 className="font-medium text-lg mb-2">Event Management (Pentaomnia)</h4>
-                    <p className="text-gray-400 mb-2">December 2023</p>
-                    <p className="text-gray-300">Streamlined logistics and led teams to deliver a successful event.</p>
-                  </CardContent>
-                </Card>
-              </motion.div>
+              
+              
             </motion.div>
           </div>
         </div>

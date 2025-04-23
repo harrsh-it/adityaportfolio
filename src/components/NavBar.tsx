@@ -36,7 +36,7 @@ const NavBar = () => {
             <RocketIcon className="text-cosmic-blue" />
             <span className="font-display font-bold text-xl hidden sm:inline-block">
               <span className="text-cosmic-blue">&lt;</span>
-              Anupriya
+              Aditya Arya
               <span className="text-cosmic-blue">/&gt;</span>
             </span>
           </a>
@@ -53,7 +53,7 @@ const NavBar = () => {
             ))}
             
             <a 
-              href="\resume.pdf" 
+              href="\resume1.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="ml-2"

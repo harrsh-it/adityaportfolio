@@ -55,14 +55,14 @@ const ContactSection = () => {
     {
       icon: MailIcon,
       title: "Email",
-      value: "anupriyasingh534@gmail.com",
-      href: "mailto:anupriyasingh534@gmail.com"
+      value: "adityaaryaxyz@gmail.com",
+      href: "mailto:adityaaryaxyz@gmail.com"
     },
     {
       icon: PhoneIcon,
       title: "Phone",
-      value: "+91-8109602389",
-      href: "tel:+918109602389"
+      value: "+91-7426084940",
+      href: "tel:+7426084940 "
     },
     {
       icon: MapPinIcon,
@@ -133,7 +133,7 @@ const ContactSection = () => {
               <h3 className="font-medium text-lg mb-4">Connect with me</h3>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/AnupriyaSingh04" 
+                  href="https://github.com/adityaarya2004" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-space-light text-gray-300 hover:text-cosmic-blue hover:bg-space-light/80 transition-colors"
@@ -154,7 +154,7 @@ const ContactSection = () => {
                 </a>
                 
                 <a 
-                  href="http://www.linkedin.com/in/anupriya-singh-" 
+                  href="https:/www.linkedin.com/in/aditya--arya" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-space-light text-gray-300 hover:text-cosmic-blue hover:bg-space-light/80 transition-colors"

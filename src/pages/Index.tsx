@@ -15,7 +15,7 @@ import EnhancedBackground from '@/components/EnhancedBackground'; // Import the 
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Anupriya Singh - Computer Science Student & Data Analyst";
+    document.title = "Aditya Arya- Computer Science Student & Data Analyst";
   }, []);
 
   return (
@@ -26,11 +26,11 @@ const Index = () => {
       <main className="flex-grow">
         <HeroSection />
         
-        <div className="py-12 bg-space-darker relative z-10">
+        {/* <div className="py-12 bg-space-darker relative z-10">
           <div className="container mx-auto px-4">
             <SpaceScene />
           </div>
-        </div>
+        </div> */}
         
         <AboutSection />
         <SkillsSection />

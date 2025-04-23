@@ -22,36 +22,36 @@ const ProjectsSection = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: "ECHOTALK – VOICE TO ACTION",
-      description: "Developed and deployed an AI assistant that transcribes meetings and extracts tasks, calendar events, and summaries in real-time. Optimized speech-to-text accuracy using NLP while minimizing costs through efficient API usage.",
-      technologies: ["React Native", "Expo", "NLP", "AI"],
-      image: "bg-[url('/echotalk.png')] bg-cover bg-center",
-      githubUrl: "https://github.com/AnupriyaSingh04/echotalk",
+      title: "STUDY BUDDY – Smart Study Companion",
+      description: "Study Buddy is an AI-enabled web application designed to enhance collaborative learning among students by helping them stay organized, motivated, and productive. The platform allows users to connect with peers based on subjects, study goals, or availability, enabling focused group study sessions and accountability partnerships.",
+      technologies: ["React.js", "Node.js", "MongoDB", "AI"],
+      image: "bg-[url('/project1.png')] bg-cover bg-center",
+      githubUrl: "https://github.com/adityaarya2004/hello-cloudbuild-app",
       liveUrl: "#",
       category: "web",
-      date: "Jan 2025 - Feb 2025"
+      date: "Oct 2024- Nov 2024"
     },
     {
       id: 2,
-      title: "AIRBNB DATA ANALYSIS",
-      description: "Conducted detailed analysis of Airbnb listings data. Enhanced data accuracy by implementing advanced transformation techniques and identified key trends in pricing, reviews, and room types through statistical methods and visualizations.",
-      technologies: ["R Programming", "Data Analysis", "Statistical Methods", "Data Visualization"],
-      image: "bg-[url('/dashboard.jpg')] bg-cover bg-center",
-      githubUrl: "https://github.com/AnupriyaSingh04/airbnb-analysis",
+      title: "CUSTOMER CHURN PREDICTION",
+      description: "The goal is to identify patterns, track key metrics, and predict the likelihood of customers discontinuing service. By integrating predictive analytics and intuitive visualizations, the dashboard enables businesses to take proactive steps in improving customer retention and satisfaction.",
+      technologies: ["PowerBI", "SQL", "Statistical Methods", "Machine Learning"],
+      image: "bg-[url('/project2.png')] bg-cover bg-center",
+      githubUrl: "https://github.com/adityaarya2004/Customer-Churn-Analysis",
       liveUrl: "#",
       category: "data",
       date: "Jun 2024 - Jul 2024"
     },
     {
       id: 3,
-      title: "A3 TOURS AND TRAVELERS",
-      description: "Engineered a dynamic tourism website with interactive features like advanced search and filtering. Refined website performance by implementing efficient coding practices and ensured mobile responsiveness.",
-      technologies: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-      image: "bg-[url('/travel.jpg')] bg-cover bg-center",
-      githubUrl: "https://github.com/AnupriyaSingh04/a3-tours",
+      title: "AI CODE TO PSEUDOCODE CONVERTER",
+      description: "This project is an AI-powered tool that translates programming code into easy-to-understand pseudocode. Designed to assist students, educators, and developers, it simplifies complex logic into plain language instructions, improving code comprehension and documentation.",
+      technologies: ["HTML", "CSS", "JavaScript", " OpenAI GPT"],
+      image: "bg-[url('/project3.png')] bg-cover bg-center",
+      githubUrl: "https://github.com/adityaarya2004/AI-Code-to-PseudoCode-converter",
       liveUrl: "#",
       category: "web",
-      date: "Mar 2023 - Apr 2023"
+      date: "Mar 2025 - Apr 2025"
     }
   ];
 
