@@ -10,7 +10,7 @@ const Footer = () => {
               <RocketIcon className="text-cosmic-blue" />
               <h3 className="font-display text-xl font-bold">
                 <span className="text-cosmic-blue">&lt;</span>
-                Anupriya
+                Aditya Arya
                 <span className="text-cosmic-blue">/&gt;</span>
               </h3>
             </div>
